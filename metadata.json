@@ -1,0 +1,6 @@
+{
+  "name": "Ketoko POS & Inventori",
+  "description": "Sistem aplikasi web Point of Sale (POS) dan manajemen inventori modern, cepat, dan terintegrasi untuk bisnis ritel Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
